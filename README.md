@@ -39,15 +39,11 @@ Banks lose significant money when borrowers fail to repay loans. This project an
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 - **Data/** — cleaned dataset (loan_data_clean.csv)
 - **Notebooks/** — complete Python notebook (Loan_Default_Prediction.ipynb)
 - **PowerBI/** — interactive dashboard file (.pbix)
 - **Reports/** — Business Recommendations PDF + Model Evaluation PDF
 - **Visuals/** — all EDA charts + Power BI dashboard screenshot
-- **README.md** — project documentation
-
 
 ---
 
