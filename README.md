@@ -39,26 +39,14 @@ Banks lose significant money when borrowers fail to repay loans. This project an
 
 ## 📁 Project Structure
 
-Financial-Loan-Default-Prediction/
-├── Data/
-│   └── loan_data_clean.csv
-├── Notebooks/
-│   └── Loan_Default_Prediction.ipynb
-├── PowerBI/
-│   └── Fiancial_Loan_Default.pbix
-├── Reports/
-│   ├── Business_Recommendations.pdf
-│   └── Model_Evaluation_Summary.pdf
-├── Visuals/
-│   ├── 01_default_distribution.png
-│   ├── 02_loan_count_by_grade.png
-│   ├── 03_default_rate_by_grade.png
-│   ├── 04_default_rate_by_income.png
-│   ├── 05_default_rate_by_purpose.png
-│   ├── 06_default_rate_by_dti.png
-│   ├── 07_correlation_heatmap.png
-│   └── 08_powerbi_dashboard.png
-└── README.md
+## 📁 Project Structure
+
+- **Data/** — cleaned dataset (loan_data_clean.csv)
+- **Notebooks/** — complete Python notebook (Loan_Default_Prediction.ipynb)
+- **PowerBI/** — interactive dashboard file (.pbix)
+- **Reports/** — Business Recommendations PDF + Model Evaluation PDF
+- **Visuals/** — all EDA charts + Power BI dashboard screenshot
+- **README.md** — project documentation
 
 
 ---
